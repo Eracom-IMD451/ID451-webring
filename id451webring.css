@@ -14,7 +14,7 @@
 	padding: 1em;
 	padding-bottom: 1.33em;
 
-	border-radius: 1em;
+	border-radius: 2em;
 	border: 2px solid #f1357a;
 	box-shadow: 0 0 16px #0006;
 
@@ -59,6 +59,7 @@
 	text-decoration-style: wavy;
 	opacity: 1;
 }
+
 
 #id451webring a:first-of-type:visited,
 #id451webring a:last-of-type:visited,
